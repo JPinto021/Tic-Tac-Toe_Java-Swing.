@@ -258,7 +258,7 @@ import javax.swing.*;
 		for(int i=0;i<9;i++) {
 			buttons[i].setEnabled(false);
 		}
-		textfield.setText("X wins");  
+		textfield.setText("X ganhou");  
 
         }
 
@@ -270,7 +270,7 @@ import javax.swing.*;
 		for(int i=0;i<9;i++) {
 			buttons[i].setEnabled(false);
 		}
-		textfield.setText("O wins");
+		textfield.setText("O ganhou");
 	}
 
         }
