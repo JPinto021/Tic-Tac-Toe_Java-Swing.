@@ -270,7 +270,7 @@ import javax.swing.*;
 		for(int i=0;i<9;i++) {
 			buttons[i].setEnabled(false);
 		}
-		textfield.setText("O ganhoooooooou");
+		textfield.setText("O wins!!!!");
 	}
 
         }
