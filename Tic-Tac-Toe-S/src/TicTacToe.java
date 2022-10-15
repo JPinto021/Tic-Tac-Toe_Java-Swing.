@@ -258,7 +258,7 @@ import javax.swing.*;
 		for(int i=0;i<9;i++) {
 			buttons[i].setEnabled(false);
 		}
-		textfield.setText("X Wins!!");  
+		textfield.setText("X familia souza Pinto ganhou!!");  
 
         }
 
